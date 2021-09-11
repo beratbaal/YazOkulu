@@ -1,0 +1,9 @@
+C:\Users\Berat\Desktop\YazOkulu\YazOkulu\ClassLibrary1\bin\Debug\netstandard2.0\EntitiyLayer.deps.json
+C:\Users\Berat\Desktop\YazOkulu\YazOkulu\ClassLibrary1\bin\Debug\netstandard2.0\EntitiyLayer.dll
+C:\Users\Berat\Desktop\YazOkulu\YazOkulu\ClassLibrary1\obj\Debug\netstandard2.0\EntitiyLayer.csproj.CoreCompileInputs.cache
+C:\Users\Berat\Desktop\YazOkulu\YazOkulu\ClassLibrary1\obj\Debug\netstandard2.0\EntitiyLayer.AssemblyInfoInputs.cache
+C:\Users\Berat\Desktop\YazOkulu\YazOkulu\ClassLibrary1\obj\Debug\netstandard2.0\EntitiyLayer.AssemblyInfo.cs
+C:\Users\Berat\Desktop\YazOkulu\YazOkulu\ClassLibrary1\bin\Debug\netstandard2.0\EntitiyLayer.pdb
+C:\Users\Berat\Desktop\YazOkulu\YazOkulu\ClassLibrary1\obj\Debug\netstandard2.0\EntitiyLayer.csprojAssemblyReference.cache
+C:\Users\Berat\Desktop\YazOkulu\YazOkulu\ClassLibrary1\obj\Debug\netstandard2.0\EntitiyLayer.dll
+C:\Users\Berat\Desktop\YazOkulu\YazOkulu\ClassLibrary1\obj\Debug\netstandard2.0\EntitiyLayer.pdb

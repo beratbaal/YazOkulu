@@ -1,0 +1,14 @@
+C:\Users\Berat\Desktop\YazOkulu\YazOkulu\BusinessLogicLayer\bin\Debug\netstandard2.0\BusinessLogicLayer.deps.json
+C:\Users\Berat\Desktop\YazOkulu\YazOkulu\BusinessLogicLayer\bin\Debug\netstandard2.0\BusinessLogicLayer.dll
+C:\Users\Berat\Desktop\YazOkulu\YazOkulu\BusinessLogicLayer\bin\Debug\netstandard2.0\BusinessLogicLayer.pdb
+C:\Users\Berat\Desktop\YazOkulu\YazOkulu\BusinessLogicLayer\bin\Debug\netstandard2.0\DataAccessLayer.dll
+C:\Users\Berat\Desktop\YazOkulu\YazOkulu\BusinessLogicLayer\bin\Debug\netstandard2.0\EntitiyLayer.dll
+C:\Users\Berat\Desktop\YazOkulu\YazOkulu\BusinessLogicLayer\bin\Debug\netstandard2.0\EntitiyLayer.pdb
+C:\Users\Berat\Desktop\YazOkulu\YazOkulu\BusinessLogicLayer\bin\Debug\netstandard2.0\DataAccessLayer.pdb
+C:\Users\Berat\Desktop\YazOkulu\YazOkulu\BusinessLogicLayer\obj\Debug\netstandard2.0\BusinessLogicLayer.csprojAssemblyReference.cache
+C:\Users\Berat\Desktop\YazOkulu\YazOkulu\BusinessLogicLayer\obj\Debug\netstandard2.0\BusinessLogicLayer.csproj.CoreCompileInputs.cache
+C:\Users\Berat\Desktop\YazOkulu\YazOkulu\BusinessLogicLayer\obj\Debug\netstandard2.0\BusinessLogicLayer.AssemblyInfoInputs.cache
+C:\Users\Berat\Desktop\YazOkulu\YazOkulu\BusinessLogicLayer\obj\Debug\netstandard2.0\BusinessLogicLayer.AssemblyInfo.cs
+C:\Users\Berat\Desktop\YazOkulu\YazOkulu\BusinessLogicLayer\obj\Debug\netstandard2.0\BusinessLogicLayer.csproj.CopyComplete
+C:\Users\Berat\Desktop\YazOkulu\YazOkulu\BusinessLogicLayer\obj\Debug\netstandard2.0\BusinessLogicLayer.dll
+C:\Users\Berat\Desktop\YazOkulu\YazOkulu\BusinessLogicLayer\obj\Debug\netstandard2.0\BusinessLogicLayer.pdb
